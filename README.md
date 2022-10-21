@@ -1,2 +1,3 @@
 # ASC-2022
-ASC 2022 Problem 3 source code.
+ASC-2022 
+Problem 3 
